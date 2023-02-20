@@ -1,2 +1,2 @@
 # hospitalRegisterSystem-phpMongodb-
-hospital registration system built with php and mongodb using vendor
+hospital registration system built with html, javascript, php and mongodb using vendor
